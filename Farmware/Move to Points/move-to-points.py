@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Move Rectangle Farmware"""
+"""Move To Points Farmware"""
 #Import libraries
 from farmware_tools import device
 from farmware_tools import get_config_value
