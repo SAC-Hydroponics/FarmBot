@@ -1,0 +1,19 @@
+{
+ "package": "Move To Points",
+ "language": "python",
+ "author": "SAC Hydroponics",
+ "description": "Moves arm to various points in absolute coordinates.",
+ "version": "1.0.1",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/sac-hydroponics/farmbot/move-to-points/master/manifest.json",
+ "zip": "https://github.com/sac-hydroponics/farmbot/move-to-points/archive/master.zip",
+ "executable": "python",
+ "args": ["move-to-points-master/move_to_points.py"],
+ "config": [
+   {"name": "start_x", "label": "Start X(mm)", "value": 0 },
+   {"name": "start_y", "label": "Start Y(mm)", "value": 0 },
+   {"name": "start_z", "label": "Start Z(mm)", "value": 0 },
+   {"name": "length", "label": "Length(mm)", "value": 0 },
+   {"name": "width", "label": "Width(mm)", "value": 0 }
+ ]
+}
