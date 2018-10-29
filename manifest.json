@@ -5,8 +5,8 @@
  "description": "Moves FarmBot arm in absolute coordinates.",
  "version": "1.0.1",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/SAC-Hydroponics/FarmBot/master/Seeder/Farmware/Movement-Test/manifest.json",
- "zip": "https://github.com/SAC-Hydroponics/FarmBot/Seeder/Farmware/Movement-Test/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/SAC-Hydroponics/FarmBot/master/manifest.json",
+ "zip": "https://github.com/SAC-Hydroponics/FarmBot/archive/master.zip",
  "executable": "python",
- "args": ["Movement-Test-master/movement_test.py"]
+ "args": ["FarmBot-master/movement_test.py"]
 }
