@@ -1,1 +1,13 @@
-
+{
+ "package": "Movement Test",
+ "language": "python",
+ "author": "SAC Hydroponics",
+ "description": "Moves FarmBot arm in absolute coordinates.",
+ "version": "1.0.1",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/isaacolson/move-rectangle/master/manifest.json",
+ "zip": "https://github.com/isaacolson/move-rectangle/archive/master.zip",
+ "executable": "python",
+ "args": ["move-rectangle-master/move_rectangle.py"],
+ "config": []
+}
