@@ -6,8 +6,8 @@
  "version": "1.0.1",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/SAC-Hydroponics/FarmBot/master/Seeder/Farmware/Movement-Test/manifest.json",
- "zip": "https://github.com/SAC-Hydroponics/FarmBot/Seeder/Farmware/movement-test/archive/master.zip",
+ "zip": "https://github.com/SAC-Hydroponics/FarmBot/Seeder/Farmware/Movement-Test/archive/master.zip",
  "executable": "python",
- "args": ["movement-test-master/movement_test.py"],
+ "args": ["Movement-Test-master/movement_test.py"],
  "config": []
 }
