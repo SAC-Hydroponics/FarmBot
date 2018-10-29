@@ -1,5 +1,5 @@
 {
- "package": "Movement Test",
+ "package": "Movement-Test",
  "language": "python",
  "author": "SAC Hydroponics",
  "description": "Moves FarmBot arm in absolute coordinates.",
