@@ -5,9 +5,9 @@
  "description": "Moves FarmBot arm in absolute coordinates.",
  "version": "1.0.1",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/isaacolson/move-rectangle/master/manifest.json",
- "zip": "https://github.com/isaacolson/move-rectangle/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/SAC-Hydroponics/FarmBot/master/Seeder/Farmware/Movement-Test/manifest.json",
+ "zip": "https://github.com/SAC-Hydroponics/FarmBot/Seeder/Farmware/movement-test/archive/master.zip",
  "executable": "python",
- "args": ["move-rectangle-master/move_rectangle.py"],
+ "args": ["movement-test-master/movement_test.py"],
  "config": []
 }
