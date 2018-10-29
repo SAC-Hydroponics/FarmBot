@@ -8,6 +8,5 @@
  "url": "https://raw.githubusercontent.com/SAC-Hydroponics/FarmBot/master/Seeder/Farmware/Movement-Test/manifest.json",
  "zip": "https://github.com/SAC-Hydroponics/FarmBot/Seeder/Farmware/Movement-Test/archive/master.zip",
  "executable": "python",
- "args": ["Movement-Test-master/movement_test.py"],
- "config": []
+ "args": ["Movement-Test-master/movement_test.py"]
 }
